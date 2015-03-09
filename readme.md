@@ -1,7 +1,7 @@
 # 이 애플리케이션은...
 매일 사용하는 Confluence와 JIRA에서 내가 원하는 View와 데이터를 만들어 내기 위한 개인 프로젝트.
 
-# 프로젝트 초기 세팅
+# 프로젝트 구성  
 Spring boot와 Google App Engine 프로젝트 구성을 위해 다음 링크에서 설명하는 프로젝트를 복사해 생성함 (새로 만들 기능을 고려해 fork하지는 않았음;)
 
 https://github.com/scratches/spring-boot-legacy
